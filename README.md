@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Kyrie ✨
+I'm an undergraduate at Shanghai Jiao Tong University (SJTU), majoring in Information Security. Currently, I'm an exchange student at the University of Texas at Austin (UT Austin). I'm expected to graduate in June 2024. Welcome to my Github!
+
+I am interested in the combination of Information Security and Machine Learning.
+
+- I'm one of the contributors of [SecretFlow](https://github.com/secretflow/secretflow), a framework for Privacy-Preserving Machine Learning, implementing Label Leakage Attacks for Split Learning.
+- I collaborated to propose [HarsanyiNet](https://arxiv.org/abs/2304.01811), a novel network that can calculate Shapley values in a single forward propagation, facilitating the attribution of inputs in order to explain the black box.
+- I collaborated to develope solutions for early diagnosis of orbital diseases with Multimodal Machine Learning.
 
 <!--
 **Zhangky11/Zhangky11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
