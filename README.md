@@ -1,5 +1,5 @@
 ### Hi, I'm Kyrie ✨
-I'm an undergraduate at Shanghai Jiao Tong University (SJTU), majoring in Information Security. Currently, I'm an exchange student at the University of Texas at Austin (UT Austin). I'm expected to graduate in June 2024.
+I'm an undergraduate at Shanghai Jiao Tong University (SJTU), majoring in Information Security. I'm expected to graduate in June 2024.
 
 I am interested in Privacy-Preserving Machine Learning.
 
