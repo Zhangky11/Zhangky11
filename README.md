@@ -1,7 +1,7 @@
 ### Hi, I'm Kyrie ✨
 I'm an undergraduate at Shanghai Jiao Tong University (SJTU), majoring in Information Security. I'm expected to graduate in June 2024.
 
-I am interested in Privacy-Preserving Machine Learning.
+I am interested in Privacy-Preserving Machine Learning and LLMs.
 
 - I'm one of the contributors of [SecretFlow](https://github.com/secretflow/secretflow), a framework for Privacy-Preserving Machine Learning, implementing Label Leakage Attacks for Split Learning.
 - I collaborated to propose [HarsanyiNet](https://arxiv.org/abs/2304.01811), a novel network that can calculate Shapley values in a single forward propagation, facilitating the attribution of inputs in order to explain the black box.
